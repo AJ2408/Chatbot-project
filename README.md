@@ -13,7 +13,7 @@ The goal of this project is to create an AI virtual desktop assistant that can h
 
 **Information access and control:** The assistant should be able to access and control information on the user's computer. For example, it should be able to open files, launch applications, or change settings.
 
-## Liabraries 
+## Important Liabraries 
 **1) Pyttsx3 :-**
 
 The pyttsx3 module is a Python library that provides text-to-speech (TTS) capabilities. It is a cross-platform library that supports 
